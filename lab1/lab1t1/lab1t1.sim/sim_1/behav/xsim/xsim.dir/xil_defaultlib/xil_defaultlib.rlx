@@ -1,0 +1,15 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/chip_design/commoncore/comparch/CX-204-Lab1/lab1t1/lab1t1.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/chip_design/commoncore/comparch/CX-204-Lab1/lab1t1/lab1t1.srcs/sim_1/new/alu_tb.sv,1734260605,systemVerilog,,,,alu_tb,,,,,,,,
+/home/it/chip_design/commoncore/comparch/CX-204-Lab1/lab1t1/lab1t1.srcs/sim_1/new/instruction_memory_tb.sv,1734268325,systemVerilog,,,,instruction_memory_tb,,,,,,,,
+/home/it/chip_design/commoncore/comparch/CX-204-Lab1/lab1t1/lab1t1.srcs/sim_1/new/program_counter.sv,1734269714,systemVerilog,,,,program_counter_tb,,,,,,,,
+/home/it/chip_design/commoncore/comparch/CX-204-Lab1/lab1t1/lab1t1.srcs/sim_1/new/register_file_tb.sv,1734266383,systemVerilog,,,,register_file_tb,,,,,,,,
+/home/it/chip_design/commoncore/comparch/CX-204-Lab1/lab1t1/lab1t1.srcs/sim_1/new/top.sv,1734271973,systemVerilog,,,,top_tb,,,,,,,,
+/home/it/chip_design/commoncore/comparch/CX-204-Lab1/lab1t1/lab1t1.srcs/sources_1/new/alu.sv,1734263849,systemVerilog,,/home/it/chip_design/commoncore/comparch/CX-204-Lab1/lab1t1/lab1t1.srcs/sources_1/new/instruction_memory.sv,,alu,,,,,,,,
+/home/it/chip_design/commoncore/comparch/CX-204-Lab1/lab1t1/lab1t1.srcs/sources_1/new/instruction_memory.sv,1734274294,systemVerilog,,/home/it/chip_design/commoncore/comparch/CX-204-Lab1/lab1t1/lab1t1.srcs/sources_1/new/program_counter.sv,,instruction_memory,,,,,,,,
+/home/it/chip_design/commoncore/comparch/CX-204-Lab1/lab1t1/lab1t1.srcs/sources_1/new/program_counter.sv,1734269714,systemVerilog,,/home/it/chip_design/commoncore/comparch/CX-204-Lab1/lab1t1/lab1t1.srcs/sources_1/new/register_file.sv,,program_counter,,,,,,,,
+/home/it/chip_design/commoncore/comparch/CX-204-Lab1/lab1t1/lab1t1.srcs/sources_1/new/register_file.sv,1734272177,systemVerilog,,/home/it/chip_design/commoncore/comparch/CX-204-Lab1/lab1t1/lab1t1.srcs/sources_1/new/top.sv,,register_file,,,,,,,,
+/home/it/chip_design/commoncore/comparch/CX-204-Lab1/lab1t1/lab1t1.srcs/sources_1/new/top.sv,1734272332,systemVerilog,,/home/it/chip_design/commoncore/comparch/CX-204-Lab1/lab1t1/lab1t1.srcs/sim_1/new/top.sv,,top,,,,,,,,
